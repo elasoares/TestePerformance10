@@ -13,7 +13,7 @@ public class AlunoTest {
 
     @Test
     public void testarNome() {
-        String nome = "Ela";
+        String nome = "Elaine Soares";
 
         Aluno matricula = new Aluno();
         matricula.setNome(nome);
